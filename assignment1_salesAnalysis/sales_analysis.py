@@ -13,3 +13,7 @@ if total_revenue >= 500:
     print("Total revenue is at least $500")
 else:
     print("Total revenue is less than $500")
+
+with open("assignment1_salesAnalysis/sales_analysis.txt", "r") as file:
+    content = file.read()
+    print(content)
