@@ -1,5 +1,10 @@
 This is my sales analysis for the Lower Manhattan coffee shop.
 
+Overview
+I analyzed the sales data from the Lower Manhattan coffee shop. The dataset contains information about transaction quantity, product category, product type, unit price, and transaction time. In this analysis, Coffee, Tea, and Drinking Chocolate are treated as drinks, while Bakery products are treated as pastries. I compared sales volume, revenue, and sales performance during different time periods.
+The purpose of this analysis is to understand the sales performance of the Lower Manhattan store and identify possible ways to improve its operations. I focused on the difference between drink and pastry revenue, the sales volume of different drink categories, and the difference between morning and afternoon/evening sales. These comparisons helped me identify several clear sales patterns in the data.
+At the same time, I also conducted an analysis and provided suggestions for three issues, and put forward some feasible opinions.
+
 Recommendation 1
 Data: drink revenue was $175,344.75
       pastry revenue was $28,328.94
@@ -20,6 +25,3 @@ Data: Morning sales were 44618 units
 Finding: The store sold more products during the morning.
 Recommmendation：The store should prepare more inventory and schedule more staff during the morning to meet higher demand.    
 
-Overview
-I analyzed the sales data from the Lower Manhattan coffee shop. The dataset contains information about transaction quantity, product category, product type, unit price, and transaction time. In this analysis, Coffee, Tea, and Drinking Chocolate are treated as drinks, while Bakery products are treated as pastries. I compared sales volume, revenue, and sales performance during different time periods.
-At the same time, I also conducted an analysis and provided suggestions for three issues, and put forward some feasible opinions.
