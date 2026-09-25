@@ -14,6 +14,22 @@ if total_revenue >= 500:
 else:
     print("Total revenue is less than $500")
 
+coffee_sold = 29375
+tea_sold = 22709
+chocolate_sold = 5434
+morning_sales = 44618
+afternoon_evening_sales = 27124
+
+print("Coffee sold:", coffee_sold)
+print("Tea sold:", tea_sold)
+print("Drinking Chocolate sold:", chocolate_sold)
+print("Morning sales:", morning_sales)
+print("Afternoon/Evening sales:", afternoon_evening_sales)
+print("Drink revenue:", drink_revenue)
+print("Pastry revenue:", pastry_revenue)
+print("Total revenue:", total_revenue)
+
 with open("assignment1_salesAnalysis/sales_analysis.txt", "r") as file:
     content = file.read()
     print(content)
+

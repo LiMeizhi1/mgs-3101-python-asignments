@@ -1,1 +1,25 @@
 This is my sales analysis for the Lower Manhattan coffee shop.
+
+Recommendation 1
+Data: drink revenue was $175,344.75
+      pastry revenue was $28,328.94
+ Finding: Drink revenue was much higher than pastry revenue.     
+Recommendation：Based on the large difference between drink revenue and pastry revenue, the store could offer drink-and-pastry bundles to encourage more pastry purchases. 
+This may increase pastry revenue and potentially reduce unsold pastry inventory
+
+Recommendation 2
+Data: Coffee sold 29,375 units
+      Tea sold 22,709 units 
+      Drinking Chocolate sold 5,434 units
+Finding: Coffee was the best-selling drink category, while Drinking Chocolate had the lowest sales.
+Recommendation: The store could keep more inventory for Coffee because demand is higher, while reducing the inventory of Drinking Chocolate to avoid overstock.
+
+Recommendation 3
+Data: Morning sales were 44618 units
+      Afternoon/evening sales were 27124 units
+Finding: The store sold more products during the morning.
+Recommmendation：The store should prepare more inventory and schedule more staff during the morning to meet higher demand.    
+
+Overview
+I analyzed the sales data from the Lower Manhattan coffee shop. The dataset contains information about transaction quantity, product category, product type, unit price, and transaction time. In this analysis, Coffee, Tea, and Drinking Chocolate are treated as drinks, while Bakery products are treated as pastries. I compared sales volume, revenue, and sales performance during different time periods.
+At the same time, I also conducted an analysis and provided suggestions for three issues, and put forward some feasible opinions.
